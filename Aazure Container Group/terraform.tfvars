@@ -1,0 +1,7 @@
+subscription_id = "YOUR_SUBSCRIPTION_ID_HERE"
+client_id       = "YOUR_CLIENT_ID_HERE"
+client_secret   = "YOUR_CLIENT_SECRET_HERE"
+tenant_id       = "YOUR_TENANT_ID_HERE"
+resource_group_name = "YOUR_RESOURCE_GROUP_NAME_HERE"
+location            = "YOUR_LOCATION_HERE"
+admin_password      = "YOUR_ADMIN_PASSWORD_HERE"
